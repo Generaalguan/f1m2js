@@ -1,0 +1,8 @@
+body{
+    background-color: burlywood;
+}
+#container{
+    background-color: red;
+    width: 700px;
+    margin: auto;
+}

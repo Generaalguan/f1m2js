@@ -1,12 +1,22 @@
+console.log("script is geladen!")
+
 const groentevak = document.getElementById ("groente");
 const fruitvak = document.getElementById ("fruit");
 
 function zetinfruitla(fruit){
-    console.log("zetinfruitla");
+    console.log(fruit);
 
+    const nieuwElement = document.createElement('h2');
+    nieuwElement.innerHTML = fruit;
+    fruitvak.appendChild(nieuwElement);
+    nieuwElement.className = 'rood';
 }
 
-function zetingroentela(){
-    console.log("zetingroentela");
+function zetingroentela(groente){
+    console.log(groente);
     
+    const nieuwElement = document.createElement('h2');
+    nieuwElement.innerHTML = groente;
+    groentevak.appendChild(nieuwElement);
+    nieuwElement.className = 'groen';
 }
