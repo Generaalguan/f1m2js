@@ -3,15 +3,15 @@ body{
 }
 
 #container{
-    background-color: aliceblue;
-    width: 900px;
-    height: 600px;
-    margin: 50px auto auto auto;
-    display: grid;
-    grid-template-columns: auto auto;
-    border: inset 2px;
+  background-color: aliceblue;
+  width: 900px;
+  height: 600px;
+  margin: 50px auto auto auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  border: inset 2px;
 }
 
 #myinteractions{
-  padding: 10px;  
+padding: 10px;  
 }
