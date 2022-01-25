@@ -7,4 +7,4 @@
 ### [live vieuw les 3 ](https://33372.hosts1.ma-cloud.nl/f1m2js/les3-tentoonstellingen)
 ### [live vieuw les 4 ](https://33372.hosts1.ma-cloud.nl/f1m2js/les4-seasons)
 ### [live vieuw les 5 ](https://33372.hosts1.ma-cloud.nl/f1m2js/les5-silverbullet)
-### [live vieuw les 5 ](https://33372.hosts1.ma-cloud.nl/f1m2js/les6-adventure)
+### [live vieuw les 6 ](https://33372.hosts1.ma-cloud.nl/f1m2js/les6-adventure)
